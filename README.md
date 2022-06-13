@@ -29,5 +29,5 @@ chmod +x install.sh
 ```
 ## preview-noblur:
 ![moonkight-noblur](/preview/moonknight-noblur-preview.png)
-![baruto-noblur](/preview/baruto-noblur-preview1.png)
+![baruto-noblur](/preview/baruto-noblur-preview.png)
 ![solo-leveling-noblur](/preview/solo-leveling-noblur-preview.png)
