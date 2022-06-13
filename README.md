@@ -31,3 +31,4 @@ chmod +x install.sh
 ![moonkight-noblur](/preview/moonknight-noblur-preview.png)
 ![baruto-noblur](/preview/baruto-noblur-preview.png)
 ![solo-leveling-noblur](/preview/solo-leveling-noblur-preview.png)
+<!---https://github.com/shinas101
