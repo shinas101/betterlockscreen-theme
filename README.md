@@ -1,4 +1,4 @@
-#Theme for Betterlockscreen
+# Theme for Betterlockscreen
 
 **SIMPLE** theme for  betterlockscreen
 
