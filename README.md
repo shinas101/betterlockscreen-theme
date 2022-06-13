@@ -1,6 +1,6 @@
-# Moonknight Theme
+#Theme for Betterlockscreen
 
-**MOONKNIGHT** theme for  betterlockscreen
+**SIMPLE** theme for  betterlockscreen
 
 ## preview-Blur:
 ![moonknight](/preview/moonknight-preview.png)
